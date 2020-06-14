@@ -1,10 +1,10 @@
 import React from 'react';
 import { 
-    Link,
+    // Link,
     withRouter,
     NavLink
 } from 'react-router-dom';
-import styled from 'styled-components';
+// import styled from 'styled-components';
 
 // const NavLink = styled(Link)`
 //     background-color: pink;
