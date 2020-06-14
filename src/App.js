@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <Title>
-        Hello World.
+        HW.
       </Title>
       <TopNav />
       <Routes />
